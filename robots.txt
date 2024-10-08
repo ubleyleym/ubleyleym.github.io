@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ubleyleym.github.io/sitemap.html.gz
+Sitemap: https://ubleyleym.github.io/app/sitemap.html.gz
+Sitemap: https://ubleyleym.github.io/assets/sitemap.html.gz
+Sitemap: https://ubleyleym.github.io/css/sitemap.html.gz
+Sitemap: https://ubleyleym.github.io/data/sitemap.html.gz
+Sitemap: https://ubleyleym.github.io/includes/sitemap.html.gz
+Sitemap: https://ubleyleym.github.io/item/sitemap.html.gz
+Sitemap: https://ubleyleym.github.io/src/sitemap.html.gz
